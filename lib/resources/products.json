@@ -1,0 +1,54 @@
+[
+    {
+      "header": "popular",
+      "products": [
+        {
+          "name": "Coco Cola Sugar Free",
+          "category": "Soft Drinks",
+          "imageUrl": "https://images.unsplash.com/photo-1543253687-c931c8e01820?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+          "price": 2.99
+        },
+        {
+          "name": "Punch",
+          "category": "Soft Drinks",
+          "imageUrl": "https://images.unsplash.com/photo-1560689189-65b6ed6228e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+          "price": 1.99
+        },
+        {
+          "name": "Pepsi",
+          "category": "Soft Drinks",
+          "imageUrl": "https://images.unsplash.com/photo-1600456531963-f51054e51619?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+          "price": 2.05
+        },
+        {
+          "name": "Cucumber Mint Drink",
+          "category": "Detox Drink",
+          "imageUrl": "https://images.unsplash.com/photo-1611497426695-412abe2f287b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=740&q=80",
+          "price": 1.05
+        },
+        {
+          "name": "Strawberry Smoothie",
+          "category": "Smoothies",
+          "imageUrl": "https://images.unsplash.com/photo-1595981235768-d8f466028cd6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+          "price": 1.95
+        }
+      ]
+    },
+    {
+      "header": "recomended",
+      "products": [
+        {
+          "name": "Cucumber Mint Drink",
+          "category": "Detox Drink",
+          "imageUrl": "https://images.unsplash.com/photo-1611497426695-412abe2f287b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=740&q=80",
+          "price": 1.05
+        },
+        {
+          "name": "Strawberry Smoothie",
+          "category": "Smoothies",
+          "imageUrl": "https://images.unsplash.com/photo-1595981235768-d8f466028cd6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+          "price": 1.95
+        }
+      ]
+    }
+  ]
